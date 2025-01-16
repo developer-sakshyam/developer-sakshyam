@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Sakshyam Kharel<br><br>🔭 I’m currently working on the **Lunapixel** project  <br>👯 I’m open to collaborating on exciting new projects, especially in web development  <br>🤝 I’m looking for help with **Chat API** implementation  <br>🌱 I’m currently learning **Backend Development** with **Node.js** and **SQL**  <br>💬 Ask me about anything related to **frontend and backend development**  <br>⚡ Fun fact: I go by **newphew** in the gaming world and I'm going to start working on the **Lunarix** project in April! 🚀
+Hi there 👋, I'm Sakshyam Kharel<br><br>🔭 I’m currently working on the **Lunapixel** project  <br>👯 I’m open to collaborating on exciting new projects, especially in web development  <br>🤝 I’m looking for help with **Chat API** implementation  <br>🌱 I’m currently learning **Backend Development** with **Node.js** and **SQL**  <br>💬 Ask me about anything related to **frontend and backend development**  <br>⚡ Fun fact: I go by **newphew** in the gaming world and I'm going to start working on the **Lunarix** project in April! 🚀
 
 
 ## 🌐 Socials:
