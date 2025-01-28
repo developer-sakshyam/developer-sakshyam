@@ -1,8 +1,7 @@
-
 <img align="center" alt="dance" widht="100px" height="90px" src="https://imgs.search.brave.com/Ntrsz_bhaR4kJnNB5GP--edgdEdhAFJUYtLBi_r4jRo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaGFwcHkt/ZGFuY2UtZW1vamkt/c3RpY2stYTViZDJy/dXk1Y2M0M2lqdC5n/aWY.gif">
 
 
-<h3 align="center">Welcome to my profile</h3>
+<h2 align="center">Welcome to my profile</h3>
 <br>
 <img width="40%" height="20%" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47anjtqi0hs72m7xglsy8wg7ri7vk0l0e8m8kdzc88&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <hr>
@@ -18,25 +17,25 @@
 <hr>
 
 - 🔭 I’m currently working on **improving my full-stack development skills and exploring backend technologies like Node.js.**
-- <hr>
+  <hr>
 
 - 🌱 I’m currently learning **Backend Development with Node.js and SQL.**
-- <hr>
+ <hr>
 
 - 👯 I’m looking to collaborate on **exciting new projects, especially in web development.**
-- <hr>
+  <hr>
 
 - 🤝 I’m looking for help with **mastering GSAP timelines and creating complex animation sequences.**
-- <hr>
+  <hr>
 
 - 💬 Ask me about **anything related to frontend and backend development.**
-- <hr>
+  <hr>
 
 - 📫 How to reach me **sakshyamkharel788@gmail.com**
-- <hr>
+  <hr>
 
 - ⚡ Fun fact **I'm planning to create my own Linux distro in April! 🚀**
-- <hr>
+  <hr>
 
 <h3 align="left">Connect with me:</h3>
 
