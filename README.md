@@ -1,4 +1,4 @@
-<img align="center" alt="dance" widht="100px" height="90px" src="https://imgs.search.brave.com/Ntrsz_bhaR4kJnNB5GP--edgdEdhAFJUYtLBi_r4jRo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaGFwcHkt/ZGFuY2UtZW1vamkt/c3RpY2stYTViZDJy/dXk1Y2M0M2lqdC5n/aWY.gif">
+<img src="file:///home/sakshyam/Downloads/git-wrapped-developer-sakshyam.png">
 
 
 <h2 align="center">Welcome to my profile</h3>
