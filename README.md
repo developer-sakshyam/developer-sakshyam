@@ -4,7 +4,7 @@
 <img src="file:///home/sakshyam/Downloads/git-wrapped-developer-sakshyam.png">
 
 <br>
-<img width="30%" height="10%" src="https://s1.ezgif.com/tmp/ezgif-167a1199c71ab2.gif">
+<img width="23%" height="7%" src="https://s1.ezgif.com/tmp/ezgif-167a1199c71ab2.gif">
 <hr>
 <br>
 
