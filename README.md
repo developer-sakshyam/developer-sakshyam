@@ -1,7 +1,10 @@
 <img src="file:///home/sakshyam/Downloads/git-wrapped-developer-sakshyam.png">
 
 
-<h2 align="center">Welcome to my profile</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
+</h2>
+
 <br>
 <img width="40%" height="20%" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47anjtqi0hs72m7xglsy8wg7ri7vk0l0e8m8kdzc88&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <hr>
