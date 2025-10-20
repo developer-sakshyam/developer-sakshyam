@@ -1,13 +1,10 @@
-
-
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=3000&size=30&pause=600&color=00F7F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile" alt="Typing SVG" />
 </h2>
 <img src="file:///home/sakshyam/Downloads/git-wrapped-developer-sakshyam.png">
 
 <br>
-<img width="30%" height="10%" src="https://media.tenor.com/S61VCO73mOAAAAAm/linux-tux.webp"> <img width="30%" height="10%" src="https://media.tenor.com/CFbru9QGwsQAAAAm/pinguim.webp"> 
+<img width="30%" height="10%" src="https://s1.ezgif.com/tmp/ezgif-167a1199c71ab2.gif">
 <hr>
 <br>
 
