@@ -7,7 +7,7 @@
 <img src="file:///home/sakshyam/Downloads/git-wrapped-developer-sakshyam.png">
 
 <br>
-<img width="40%" height="20%" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47anjtqi0hs72m7xglsy8wg7ri7vk0l0e8m8kdzc88&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img width="40%" height="20%" src="https://media.tenor.com/S61VCO73mOAAAAAm/linux-tux.webp">
 <hr>
 <br>
 
