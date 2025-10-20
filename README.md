@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins+Code&pause=1000&color=C76E00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
 </h2>
 
 <br>
