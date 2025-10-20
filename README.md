@@ -7,7 +7,7 @@
 <img src="file:///home/sakshyam/Downloads/git-wrapped-developer-sakshyam.png">
 
 <br>
-<img width="40%" height="20%" src="https://media.tenor.com/S61VCO73mOAAAAAm/linux-tux.webp">
+<img width="30%" height="10%" src="https://media.tenor.com/S61VCO73mOAAAAAm/linux-tux.webp">
 <hr>
 <br>
 
