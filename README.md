@@ -73,7 +73,7 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="60" alt="linux logo"  />
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-sakshyam/developer-sakshyam/output/pacman-contribution-graph-dark.svg">
@@ -81,4 +81,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/developer-sakshyam/developer-sakshyam/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
