@@ -2,16 +2,10 @@
 
 <h1 align="center">Hey 👋What's Up?</h1>
 <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&duration=4999&pause=1003&color=24F71A&background=000000DC&center=true&width=435&lines=Hello+World%2C+Iam+Sakshyam+Kharel;A+passionate+frontend+developer" alt="typing svg"/>
-<br>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="29" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="29" alt="instagram logo"  />
-</div>
 
 ###
 
