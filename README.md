@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">Hey 👋What's Up?</h1>
-<center>< img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&duration=4999&pause=1003&color=24F71A&background=000000DC&center=true&width=435&lines=Hello+World%2C+Iam+Sakshyam+Kharel;A+passionate+frontend+developer" alt="typing svg"/> </center>
+<center> < img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&duration=4999&pause=1003&color=24F71A&background=000000DC&center=true&width=435&lines=Hello+World%2C+Iam+Sakshyam+Kharel;A+passionate+frontend+developer" alt="typing svg"/> </center>
 
 ###
 
